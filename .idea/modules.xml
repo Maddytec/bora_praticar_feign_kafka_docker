@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bora_praticar_feign_kafka_docker.iml" filepath="$PROJECT_DIR$/.idea/bora_praticar_feign_kafka_docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cliente/cliente.iml" filepath="$PROJECT_DIR$/cliente/cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/endereco/endereco.iml" filepath="$PROJECT_DIR$/endereco/endereco.iml" />
+    </modules>
+  </component>
+</project>

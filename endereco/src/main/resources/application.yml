@@ -12,3 +12,4 @@ spring:
 
 topic:
   endereco-cliente: topic_endereco_cliente
+  group-id: group_id
